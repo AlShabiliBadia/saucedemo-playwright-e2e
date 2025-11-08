@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+test-results/
+playwright-report/
+playwright/.local-browsers/
+allure-results/
+allure-report/
+.idea/
+.vscode/
+*.swp
+.DS_Store

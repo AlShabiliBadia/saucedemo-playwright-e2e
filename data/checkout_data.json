@@ -1,0 +1,8 @@
+{
+  "test_product": "Sauce Labs Backpack",
+  "test_user": {
+    "first_name": "Test",
+    "last_name": "User",
+    "postal_code": "12345"
+  }
+}

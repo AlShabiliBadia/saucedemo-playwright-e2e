@@ -5,7 +5,6 @@ class CheckoutStepTwoPage:
     def __init__(self, page: Page):
         self.page = page
         
-        # Locators
         self.page_title = page.locator(".title")
         self.summary_total_label = page.locator(".summary_total_label")
         self.finish_button = page.locator("[data-test='finish']")

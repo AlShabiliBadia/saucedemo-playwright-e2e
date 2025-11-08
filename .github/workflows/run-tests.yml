@@ -68,7 +68,7 @@ jobs:
           java-version: '17'
 
       - name: Allure Report generation
-        uses: allure-framework/allure-github-action@v1.6.1
+        uses: allure-framework/allure-github-actions@v1.6.1
         with:
           report_results_path: allure-results
           report_dir: allure-report
